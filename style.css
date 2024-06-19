@@ -1,0 +1,30 @@
+.title {
+color: black;
+text-align: center;
+font-size: 50px;
+font-family: 'Times New Roman', Times, serif;
+background-color: orange;
+font-weight: bold;
+}
+
+.ingredients, .steps, .links {
+    background-color: orange;
+    font-size: 25px;
+    
+
+}
+
+
+.recipe {
+    color: black;
+    background-color: orange;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+.list {
+    color: white;
+    background-color: black;
+}
+
+div {text-align: center;}
